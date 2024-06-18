@@ -1,0 +1,11 @@
+{
+  "sqltools.connections": [
+    {
+      "previewLimit": 50,
+      "driver": "SQLite",
+      "name": "99tech-be-problem-5",
+      "database": "${workspaceFolder:99tech-be-problem-5}/prisma/database.sql3"
+    }
+  ],
+  "sqltools.useNodeRuntime": true
+}
